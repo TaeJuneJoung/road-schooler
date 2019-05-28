@@ -1,5 +1,15 @@
 # readMe
 
+
+
+**설정**
+
+github : origin
+
+gitlab : ssafy
+
+
+
 <u>2019.05.28</u>
 
 ### 프로젝트 목표 설정
@@ -16,7 +26,6 @@ Step 2. 안면 비교
 Step 3. 머신러닝
 
 Step 4. 학습을 통한 분류
-
 
 
 <hr>
