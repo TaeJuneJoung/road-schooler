@@ -28,6 +28,18 @@ Step 3. 머신러닝
 Step 4. 학습을 통한 분류
 
 
+
+[텐서플로 Rank, Shape, Type](https://github.com/TaeJuneJoung/road-schooler/Tensor Ranks, Shapes, Types.md)
+
+
+
+<u>2019.05.29</u>
+
+
+
+
+
+
 <hr>
 
 참고자료

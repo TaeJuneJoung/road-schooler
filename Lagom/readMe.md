@@ -18,5 +18,5 @@
 
 모두를 위한 딥러닝 시즌2 - TensorFlow(edwith)
 
-[Tensorflow 설치 및 Simple Linear Regression]((https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190529.md)) 
+[Tensorflow 설치 및 Simple Linear Regression](https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190529.md) 
 
