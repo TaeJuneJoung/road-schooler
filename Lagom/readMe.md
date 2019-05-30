@@ -18,5 +18,17 @@
 
 모두를 위한 딥러닝 시즌2 - TensorFlow(edwith)
 
-[Tensorflow 설치 및 Simple Linear Regression](https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190529.md) 
+[Tensorflow 설치 및 Simple Linear Regression]((https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190529.md)) 
+
+
+
+#### 190530
+
+모두를 위한 딥러닝 시즌2 - TensorFlow(edwith)
+
+[Eager Execution and Multi-variable Linear Regression](https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190530.md)
+
+
+
+[마크다운 수식 사용법](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
 
