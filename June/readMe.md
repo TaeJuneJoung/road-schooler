@@ -112,9 +112,42 @@ $$
 
 
 
-### 텐서플로 연산자
+`텐서플로 연산자`
 
 https://www.tensorflow.org/api_guides/python/math_ops
+
+
+
+### 2019.05.30
+
+<https://ukayzm.github.io/face-clustering/>
+
+/face_recognition : 캠을 이용한 사람 레이블링[학습 중]
+
+>   ```bash
+>   pip install opencv-python
+>   pip install opencv-contrib-python
+>   pip install cmake
+>   pip install dlib
+>   pip install face_recognition
+>   pip install flask
+>   ```
+>
+>   일반 컴퓨터에서는 작동하지 않아 이유 파악 중...
+
+
+
+video_recog.py : 비디오 및 스트리밍 영상 사람 레이블링[파이썬 라이브러리]
+
+>**사용법**
+>
+>```bash
+> $ python video_recog.py -e "testVideo.mp4"
+>```
+>
+>으로 실행
+
+
 
 ### 참고자료
 
