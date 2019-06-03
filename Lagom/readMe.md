@@ -40,3 +40,14 @@
 
 [Logistic Regression/Classification](https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190531.md)
 
+
+
+#### 190603
+
+face detector
+
+얼굴인식 스노우 카메라 쉽게 따라만들기 - Python
+
+https://www.youtube.com/watch?v=tpWVyJqehG4
+
+[Face Detector](https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190603.md)
