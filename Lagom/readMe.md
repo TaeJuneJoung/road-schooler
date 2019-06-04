@@ -51,3 +51,14 @@ face detector
 https://www.youtube.com/watch?v=tpWVyJqehG4
 
 [Face Detector](https://github.com/TaeJuneJoung/road-schooler/tree/master/Lagom/190603.md)
+
+
+
+#### 190604
+
+genetic_dino
+
+유전 알고리즘(GA)를 이용하여 구글 오프라인 공룡 게임하기
+
+[참고 깃허브](https://github.com/kairess/genetic_dino)
+
